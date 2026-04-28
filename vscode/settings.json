@@ -1,0 +1,7 @@
+{
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "Meslo LG M for Powerline",
+    "terminal.integrated.shell.osx": "zsh"
+}
